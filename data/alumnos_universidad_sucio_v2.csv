@@ -1,0 +1,506 @@
+id_alumno,nombre_completo,facultad,carrera,semestre,promedio_ponderado,creditos_matriculados
+ALU-174,Valeria Pérez,Administración,Administración de Empresas,3,15.76,15
+ALU-275,Jorge Sánchez,Ingeniería de Producción y Servicios,Ing. Industrial,5,18.14,20
+ALU-491,  luis romero ,   ingeniería de sistemas  , ING. DE SISTEMAS ,2,17.16,17
+ALU-073,Valeria Romero,Ingeniería de Sistemas,Ing. de Sistemas,10,14.43,17
+ALU-306,Jorge López,Ingeniería de Sistemas,Ciencia de la Computación,10,13.33,16
+ALU-077,Jorge Gómez,Administración,Contabilidad,8,11.78,23
+ALU-477,Lucía Sánchez,Administración,Contabilidad,4,17.43,17
+ALU-141,Diego Romero,,Ciencia de la Computación,8,14.08,13
+ALU-471,Ana Romero,Derecho,Derecho,6,9.07,22
+ALU-500,Carlos Martínez,Administración,Contabilidad,1,,25
+ALU-219,Valeria Martínez,Administración,Administración de Empresas,1,14.03,13
+ALU-010,Luis Gómez,Derecho,Derecho,5,12.23,21
+ALU-481,Juan Fernández,Administración,Administración de Empresas,3,10.1,25
+ALU-079,Pedro Rodríguez,Administración,Administración de Empresas,3,,14
+ALU-323,Pedro Martínez,Derecho,Derecho,1,12.5,14
+ALU-313,Ana Díaz,Ingeniería de Sistemas,Ciencia de la Computación,4,17.14,12
+ALU-125,Elena López,Ingeniería de Sistemas,Ing. de Sistemas,10,13.58,17
+ALU-385,Ana López,Derecho,Derecho,4,12.59,17
+ALU-196,María López,Ingeniería de Producción y Servicios,Ing. Eléctrica,5,15.62,24
+ALU-448,Diego Rodríguez,Ingeniería de Producción y Servicios,Ing. Eléctrica,2,5.41,21
+ALU-272,María Romero,Derecho,Derecho,7,17.84,20
+ALU-279,Valeria Martínez,Derecho,Derecho,4,18.48,17
+ALU-031,  diego romero ,   administración  , ADMINISTRACIÓN DE EMPRESAS ,6,9.81,18
+ALU-001,María Fernández,Ingeniería de Sistemas,Ing. de Sistemas,4,14.65,19
+ALU-421,Elena Torres,Administración,Contabilidad,1,20.0,14
+ALU-445,Lucía Sánchez,Ingeniería de Producción y Servicios,Ing. Eléctrica,3,8.13,15
+ALU-080,Ana Fernández,Ingeniería de Producción y Servicios,Ing. Industrial,4,14.79,17
+ALU-319,Lucía Díaz,Administración,Contabilidad,2,20.0,21
+ALU-211,María López,Derecho,Derecho,9,15.8,16
+ALU-497,María López,Ingeniería de Sistemas,Ing. de Sistemas,5,11.74,14
+ALU-173,Luis Martínez,Ingeniería de Sistemas,Ing. de Sistemas,2,-5.0,25
+ALU-454,Juan Torres,Administración,Contabilidad,6,15.38,16
+ALU-375,Juan Pérez,Ingeniería de Sistemas,Ciencia de la Computación,6,12.79,15
+ALU-359,Ana Fernández,,Ing. Eléctrica,3,9.59,20
+ALU-495,  luis lópez ,   ingeniería de producción y servicios  , ING. MECÁNICA ,9,12.81,14
+ALU-154,Pedro Romero,Medicina,Medicina Humana,3,16.78,14
+ALU-003,Jorge Romero,Administración,Contabilidad,6,9.6,16
+ALU-336,Jorge López,Ingeniería de Producción y Servicios,Ing. Industrial,3,13.93,23
+ALU-209,Juan López,Derecho,Derecho,8,10.28,25
+ALU-074,María Fernández,Administración,Administración de Empresas,5,13.17,14
+ALU-496,Jorge Díaz,Medicina,Medicina Humana,6,12.7,17
+ALU-452,Valeria Gómez,Derecho,Derecho,7,13.06,16
+ALU-205,Lucía López,Medicina,Medicina Humana,1,10.17,21
+ALU-069,Pedro Rodríguez,Medicina,Medicina Humana,1,13.9,25
+ALU-091,Elena Martínez,Administración,Contabilidad,2,16.12,20
+ALU-300,Elena Fernández,Derecho,Derecho,9,10.19,18
+ALU-034,Lucía Rodríguez,Administración,Administración de Empresas,4,11.46,15
+ALU-071,María Gómez,Medicina,Medicina Humana,10,15.63,19
+ALU-470,Diego Sánchez,Ingeniería de Sistemas,Ciencia de la Computación,-2,12.65,16
+ALU-001,María Fernández,Ingeniería de Sistemas,Ing. de Sistemas,4,14.65,19
+ALU-012,Valeria Romero,Ingeniería de Producción y Servicios,Ing. Industrial,3,18.42,15
+ALU-282,Pedro Martínez,Ingeniería de Sistemas,Ciencia de la Computación,6,12.95,16
+ALU-023,Jorge Rodríguez,Ingeniería de Producción y Servicios,Ing. Eléctrica,9,9.99,20
+ALU-102,Carlos Sánchez,Administración,Contabilidad,9,16.4,19
+ALU-269,Luis Martínez,Ingeniería de Sistemas,Ing. de Sistemas,1,-5.0,12
+ALU-485,María Sánchez,Ingeniería de Sistemas,Ciencia de la Computación,7,15.68,22
+ALU-442,Pedro Pérez,,Ciencia de la Computación,10,13.76,22
+ALU-291,María Gómez,Ingeniería de Sistemas,Ing. de Sistemas,1,13.63,15
+ALU-085,Lucía Sánchez,Derecho,Derecho,1,13.68,18
+ALU-246,Pedro Romero,Administración,Contabilidad,10,14.13,12
+ALU-064,Luis Sánchez,Derecho,Derecho,2,11.0,17
+ALU-056,Valeria Rodríguez,Administración,Administración de Empresas,5,14.45,19
+ALU-230,Ana Torres,Administración,Administración de Empresas,8,17.1,23
+ALU-019,María Díaz,Ingeniería de Producción y Servicios,Ing. Eléctrica,8,14.38,14
+ALU-411,Sofía Fernández,Derecho,Derecho,9,13.7,19
+ALU-210,Luis Pérez,Ingeniería de Producción y Servicios,Ing. Eléctrica,2,13.84,19
+ALU-395,Pedro Gómez,Ingeniería de Sistemas,Ing. de Sistemas,N/A,15.77,19
+ALU-083,Juan López,Ingeniería de Producción y Servicios,Ing. Eléctrica,6,13.61,16
+ALU-040,Diego Torres,Ingeniería de Producción y Servicios,Ing. Mecánica,10,12.89,17
+ALU-456,Ana Rodríguez,Administración,Administración de Empresas,7,40.85,24
+ALU-047,María Fernández,Derecho,Derecho,2,8.45,15
+ALU-413,Valeria Díaz,Derecho,Derecho,6,18.59,12
+ALU-315,Valeria Díaz,Medicina,Medicina Humana,9,15.39,23
+ALU-355,Pedro Gómez,Derecho,Derecho,6,14.39,18
+ALU-078,María Sánchez,Administración,Contabilidad,6,12.87,19
+ALU-398,Jorge Sánchez,Administración,Contabilidad,1,16.91,18
+ALU-105,Pedro Fernández,Ingeniería de Sistemas,Ciencia de la Computación,7,9.38,23
+ALU-204,Lucía López,Ingeniería de Sistemas,Ing. de Sistemas,8,13.31,19
+ALU-381,Ana Rodríguez,Ingeniería de Producción y Servicios,Ing. Industrial,10,11.07,17
+ALU-489,Pedro Martínez,Administración,Administración de Empresas,3,16.1,20
+ALU-070,Carlos Pérez,Ingeniería de Sistemas,Ciencia de la Computación,-2,19.75,22
+ALU-408,Valeria Romero,Administración,Contabilidad,4,12.78,19
+ALU-256,Sofía Romero,,Medicina Humana,3,9.95,20
+ALU-392,Diego Sánchez,Administración,Contabilidad,9,14.94,20
+ALU-312,Luis Rodríguez,Ingeniería de Producción y Servicios,Ing. Mecánica,8,13.65,19
+ALU-235,Valeria Rodríguez,Administración,Administración de Empresas,3,14.02,24
+ALU-474,Sofía Romero,Medicina,Medicina Humana,3,16.27,23
+ALU-324,Jorge Díaz,Ingeniería de Sistemas,Ing. de Sistemas,7,16.21,21
+ALU-094,Valeria Sánchez,Ingeniería de Sistemas,Ing. de Sistemas,2,12.76,19
+ALU-138,Lucía Sánchez,Derecho,Derecho,3,15.82,24
+ALU-177,Luis Sánchez,Administración,Contabilidad,7,14.12,12
+ALU-337,Elena Pérez,Ingeniería de Producción y Servicios,Ing. Eléctrica,7,16.95,20
+ALU-132,Carlos Gómez,Administración,Administración de Empresas,5,16.87,16
+ALU-003,Jorge Romero,Administración,Contabilidad,6,9.6,16
+ALU-365,Luis Sánchez,Ingeniería de Producción y Servicios,Ing. Mecánica,3,14.38,12
+ALU-133,Ana Torres,Medicina,Medicina Humana,9,10.56,13
+ALU-332,Lucía Torres,Ingeniería de Sistemas,Ciencia de la Computación,10,7.64,19
+ALU-412,Jorge Rodríguez,Medicina,Medicina Humana,8,11.51,22
+ALU-004,María Torres,Ingeniería de Producción y Servicios,Ing. Mecánica,10,10.32,15
+ALU-350,María Martínez,Medicina,Medicina Humana,10,84.61,12
+ALU-087,Valeria Pérez,Medicina,Medicina Humana,7,11.68,25
+ALU-076,Carlos Rodríguez,Ingeniería de Producción y Servicios,Ing. Industrial,5,13.47,15
+ALU-443,Juan Romero,Medicina,Medicina Humana,2,,13
+ALU-016,Pedro Rodríguez,Medicina,Medicina Humana,7,12.76,13
+ALU-326,Jorge Gómez,Derecho,Derecho,8,12.16,24
+ALU-389,Jorge Sánchez,Ingeniería de Producción y Servicios,Ing. Mecánica,1,14.92,14
+ALU-020,Elena López,Medicina,Medicina Humana,6,12.7,25
+ALU-325,Elena Pérez,Administración,Administración de Empresas,8,16.58,25
+ALU-335,Pedro Pérez,Derecho,Derecho,6,11.29,18
+ALU-057,María Díaz,Derecho,Derecho,6,11.03,22
+ALU-339,  juan gómez ,   ingeniería de sistemas  , ING. DE SISTEMAS ,3,12.91,20
+ALU-409,Elena Sánchez,Derecho,Derecho,4,18.17,14
+ALU-334,Diego Martínez,Ingeniería de Sistemas,Ciencia de la Computación,3,9.34,22
+ALU-182,Juan Gómez,Administración,Administración de Empresas,-2,13.45,19
+ALU-228,Ana Torres,Medicina,Medicina Humana,3,14.43,12
+ALU-427,Valeria Díaz,Ingeniería de Sistemas,Ing. de Sistemas,5,16.28,16
+ALU-181,Ana López,Ingeniería de Producción y Servicios,Ing. Industrial,3,13.64,15
+ALU-026,Ana Díaz,Medicina,Medicina Humana,6,15.46,18
+ALU-330,Ana Gómez,Medicina,Medicina Humana,3,19.04,23
+ALU-239,Elena López,Ingeniería de Producción y Servicios,Ing. Mecánica,6,18.41,20
+ALU-245,Carlos Gómez,Ingeniería de Sistemas,Ing. de Sistemas,8,16.16,24
+ALU-251,Ana Martínez,Ingeniería de Producción y Servicios,Ing. Eléctrica,8,15.39,20
+ALU-418,Carlos Fernández,Ingeniería de Producción y Servicios,Ing. Mecánica,6,18.0,20
+ALU-118,Valeria Gómez,Derecho,Derecho,9,18.12,12
+ALU-043,Ana Pérez,Medicina,Medicina Humana,-2,16.3,23
+ALU-322,Luis Rodríguez,Medicina,Medicina Humana,8,18.56,18
+ALU-347,Juan Díaz,Medicina,Medicina Humana,8,10.23,17
+ALU-183,Carlos Rodríguez,Ingeniería de Sistemas,Ing. de Sistemas,1,12.08,21
+ALU-156,Lucía Pérez,Derecho,Derecho,4,18.63,20
+ALU-281,Juan Pérez,Ingeniería de Sistemas,Ciencia de la Computación,10,12.34,18
+ALU-127,Lucía Martínez,Ingeniería de Sistemas,Ing. de Sistemas,3,12.79,17
+ALU-449,Valeria Rodríguez,Ingeniería de Sistemas,Ing. de Sistemas,8,10.59,20
+ALU-032,Valeria Díaz,Derecho,Derecho,9,6.47,15
+ALU-114,Valeria Gómez,Derecho,Derecho,6,9.37,25
+ALU-149,María Martínez,Administración,Administración de Empresas,7,15.92,20
+ALU-430,  elena rodríguez ,   ingeniería de sistemas  , ING. DE SISTEMAS ,7,17.26,20
+ALU-401,Lucía Romero,Ingeniería de Producción y Servicios,Ing. Industrial,1,14.12,14
+ALU-058,Ana Díaz,Administración,Administración de Empresas,6,17.48,20
+ALU-195,Jorge Pérez,Derecho,Derecho,7,5.81,21
+ALU-025,Diego Rodríguez,Medicina,Medicina Humana,9,15.84,20
+ALU-018,Carlos Sánchez,Derecho,Derecho,10,14.1,17
+ALU-298,Sofía López,Ingeniería de Sistemas,Ciencia de la Computación,9,14.21,19
+ALU-067,Elena Martínez,Ingeniería de Sistemas,Ciencia de la Computación,4,14.05,13
+ALU-212,Lucía Romero,Medicina,Medicina Humana,1,18.08,15
+ALU-404,Valeria Pérez,Ingeniería de Producción y Servicios,Ing. Industrial,4,11.31,14
+ALU-095,Lucía Romero,Ingeniería de Sistemas,Ing. de Sistemas,2,16.18,15
+ALU-155,Ana Gómez,Derecho,Derecho,2,15.67,23
+ALU-441,María López,Medicina,Medicina Humana,4,17.39,21
+ALU-024,Valeria Díaz,Medicina,Medicina Humana,3,18.21,15
+ALU-226,Luis Sánchez,Derecho,Derecho,5,15.08,13
+ALU-433,Jorge Gómez,Derecho,Derecho,3,11.13,17
+ALU-447,Sofía Gómez,Ingeniería de Sistemas,Ing. de Sistemas,4,12.89,17
+ALU-006,Elena Rodríguez,Derecho,Derecho,-2,13.24,21
+ALU-117,María Gómez,Ingeniería de Producción y Servicios,Ing. Industrial,6,12.1,23
+ALU-046,Luis Torres,Medicina,Medicina Humana,3,14.13,13
+ALU-017,Diego Fernández,Derecho,Derecho,5,17.98,16
+ALU-468,Luis Díaz,Ingeniería de Producción y Servicios,Ing. Eléctrica,1,11.18,18
+ALU-362,Diego Fernández,Ingeniería de Sistemas,Ing. de Sistemas,2,,13
+ALU-004,María Torres,Ingeniería de Producción y Servicios,Ing. Mecánica,10,10.32,15
+ALU-295,Lucía Fernández,Derecho,Derecho,1,17.79,24
+ALU-186,Valeria Rodríguez,Administración,Contabilidad,1,14.75,17
+ALU-061,  lucía pérez ,   medicina  , MEDICINA HUMANA ,5,9.65,15
+ALU-111,Ana Fernández,Ingeniería de Producción y Servicios,Ing. Eléctrica,3,12.89,18
+ALU-321,Valeria Fernández,Medicina,Medicina Humana,6,18.61,19
+ALU-266,María Martínez,Derecho,Derecho,8,12.35,13
+ALU-030,Juan Gómez,,Contabilidad,1,17.01,23
+ALU-263,Luis Sánchez,Administración,Contabilidad,4,10.04,14
+ALU-478,Luis Pérez,Ingeniería de Sistemas,Ciencia de la Computación,6,13.01,25
+ALU-027,Diego Gómez,Ingeniería de Producción y Servicios,Ing. Industrial,2,7.37,12
+ALU-008,Ana Rodríguez,Ingeniería de Producción y Servicios,Ing. Eléctrica,1,13.96,14
+ALU-458,Ana Díaz,Ingeniería de Sistemas,Ing. de Sistemas,5,16.5,21
+ALU-109,Carlos Sánchez,Administración,Administración de Empresas,5,13.33,12
+ALU-038,Luis Torres,Derecho,Derecho,7,12.34,22
+ALU-158,Elena Sánchez,Ingeniería de Sistemas,Ing. de Sistemas,10,14.62,23
+ALU-472,Elena López,Administración,Administración de Empresas,6,17.44,13
+ALU-119,Ana Martínez,Medicina,Medicina Humana,1,20.0,19
+ALU-115,  diego gómez ,   administración  , ADMINISTRACIÓN DE EMPRESAS ,8,14.64,20
+ALU-176,Elena Fernández,Medicina,Medicina Humana,7,8.24,25
+ALU-193,Elena Pérez,Ingeniería de Producción y Servicios,Ing. Eléctrica,7,16.3,22
+ALU-273,Jorge Sánchez,Medicina,Medicina Humana,6,13.2,22
+ALU-145,Luis Sánchez,Medicina,Medicina Humana,3,14.01,24
+ALU-490,Pedro Torres,Ingeniería de Sistemas,Ing. de Sistemas,10,15.29,18
+ALU-383,Lucía Pérez,Medicina,Medicina Humana,1,14.57,16
+ALU-356,Diego López,Ingeniería de Sistemas,Ciencia de la Computación,7,11.17,19
+ALU-278,Luis Martínez,Administración,Contabilidad,7,13.42,24
+ALU-221,María López,Derecho,Derecho,6,5.09,13
+ALU-450,Valeria Pérez,Derecho,Derecho,4,,22
+ALU-142,Pedro Fernández,Medicina,Medicina Humana,9,,13
+ALU-369,Juan Pérez,Derecho,Derecho,10,9.32,18
+ALU-068,Valeria Gómez,Derecho,Derecho,8,14.99,12
+ALU-361,Diego Gómez,Derecho,Derecho,10,10.31,12
+ALU-169,  diego lópez ,   ingeniería de sistemas  , CIENCIA DE LA COMPUTACIÓN ,1,13.41,14
+ALU-499,Valeria Torres,Ingeniería de Sistemas,Ing. de Sistemas,5,9.27,20
+ALU-379,Sofía Díaz,Derecho,Derecho,8,16.09,15
+ALU-366,Ana Fernández,Ingeniería de Sistemas,Ing. de Sistemas,3,20.0,16
+ALU-194,Jorge Sánchez,Ingeniería de Producción y Servicios,Ing. Mecánica,7,,21
+ALU-250,Jorge Martínez,Derecho,Derecho,4,10.16,19
+ALU-110,Valeria Martínez,Administración,Contabilidad,5,14.59,23
+ALU-434,Sofía Torres,Derecho,Derecho,4,14.83,20
+ALU-146,Carlos Fernández,Ingeniería de Producción y Servicios,Ing. Mecánica,6,14.63,25
+ALU-093,Valeria Martínez,Ingeniería de Producción y Servicios,Ing. Industrial,6,12.93,18
+ALU-153,Ana Romero,Medicina,Medicina Humana,3,15.51,14
+ALU-223,  sofía romero ,   derecho  , DERECHO ,5,12.25,17
+ALU-410,Lucía Fernández,Administración,Contabilidad,8,,14
+ALU-084,Luis Rodríguez,Derecho,Derecho,3,85.14,24
+ALU-249,Pedro Gómez,Medicina,Medicina Humana,9,18.14,23
+ALU-166,Elena Pérez,Administración,Administración de Empresas,10,9.63,15
+ALU-164,Lucía Torres,Ingeniería de Producción y Servicios,Ing. Eléctrica,8,13.38,25
+ALU-200,Carlos Martínez,Derecho,Derecho,1,56.51,21
+ALU-232,Jorge López,Ingeniería de Producción y Servicios,Ing. Mecánica,2,19.0,15
+ALU-075,Lucía Gómez,Administración,Administración de Empresas,2,12.16,18
+ALU-311,Jorge Pérez,Medicina,Medicina Humana,3,68.08,22
+ALU-455,Valeria Díaz,Derecho,Derecho,9,12.11,24
+ALU-254,Luis Martínez,Ingeniería de Sistemas,Ciencia de la Computación,9,16.11,20
+ALU-120,Diego Martínez,Derecho,Derecho,4,11.32,20
+ALU-285,  ana rodríguez ,   ingeniería de producción y servicios  , ING. MECÁNICA ,4,9.17,23
+ALU-302,Carlos Romero,Derecho,Derecho,2,14.1,22
+ALU-483,Ana Gómez,Administración,Contabilidad,9,12.86,12
+ALU-357,Luis Pérez,Administración,Administración de Empresas,3,14.24,17
+ALU-403,Pedro Rodríguez,Administración,Administración de Empresas,4,,25
+ALU-229,Valeria Martínez,Derecho,Derecho,10,16.55,23
+ALU-262,Luis Martínez,Administración,Contabilidad,2,14.12,19
+ALU-238,Jorge Díaz,Derecho,Derecho,10,14.82,23
+ALU-438,Carlos Torres,Ingeniería de Producción y Servicios,Ing. Eléctrica,2,15.99,19
+ALU-476,Lucía Gómez,Administración,Administración de Empresas,3,18.46,13
+ALU-037,Jorge Gómez,Ingeniería de Sistemas,Ciencia de la Computación,-2,7.33,19
+ALU-197,Sofía López,Ingeniería de Sistemas,Ing. de Sistemas,10,13.18,24
+ALU-140,Carlos Torres,Ingeniería de Sistemas,Ing. de Sistemas,7,12.21,20
+ALU-368,Sofía Díaz,Ingeniería de Sistemas,Ing. de Sistemas,2,67.34,21
+ALU-248,Elena Martínez,Administración,Contabilidad,10,12.6,21
+ALU-288,  lucía pérez ,   administración  , ADMINISTRACIÓN DE EMPRESAS ,7,11.53,19
+ALU-378,Jorge Rodríguez,Ingeniería de Sistemas,Ciencia de la Computación,4,9.74,19
+ALU-060,Jorge Pérez,Derecho,Derecho,5,17.36,24
+ALU-112,Juan Díaz,Derecho,Derecho,-2,8.51,12
+ALU-090,Pedro Díaz,Administración,Contabilidad,6,,23
+ALU-267,Ana Sánchez,Administración,Administración de Empresas,9,15.51,13
+ALU-007,Ana Romero,Ingeniería de Producción y Servicios,Ing. Mecánica,1,12.08,19
+ALU-457,María Pérez,Administración,Administración de Empresas,9,10.11,17
+ALU-348,Elena Fernández,Medicina,Medicina Humana,4,,17
+ALU-341,Ana Rodríguez,Ingeniería de Producción y Servicios,Ing. Industrial,2,12.71,19
+ALU-159,Jorge Pérez,Ingeniería de Producción y Servicios,Ing. Mecánica,9,13.21,23
+ALU-151,Luis Sánchez,Administración,Administración de Empresas,6,11.34,16
+ALU-178,Pedro Rodríguez,Derecho,Derecho,9,16.53,21
+ALU-397,Luis Díaz,Derecho,Derecho,9,14.43,12
+ALU-185,Lucía Rodríguez,,Ing. de Sistemas,8,16.34,12
+ALU-318,Lucía Torres,,Ing. Industrial,5,14.03,17
+ALU-011,Elena Díaz,Medicina,Medicina Humana,8,93.35,24
+ALU-384,Valeria Díaz,Ingeniería de Sistemas,Ing. de Sistemas,7,14.49,14
+ALU-104,Juan Gómez,Ingeniería de Producción y Servicios,Ing. Mecánica,N/A,7.87,19
+ALU-082,Lucía Díaz,Medicina,Medicina Humana,6,15.96,16
+ALU-039,Jorge Torres,Ingeniería de Producción y Servicios,Ing. Eléctrica,5,11.93,17
+ALU-317,Lucía Sánchez,Administración,Administración de Empresas,1,14.86,17
+ALU-168,Elena Rodríguez,Ingeniería de Sistemas,Ing. de Sistemas,2,,24
+ALU-475,Valeria Torres,Ingeniería de Sistemas,Ciencia de la Computación,3,7.44,20
+ALU-299,Elena López,Ingeniería de Sistemas,Ciencia de la Computación,6,19.26,13
+ALU-405,Pedro Sánchez,Ingeniería de Sistemas,Ing. de Sistemas,1,-5.0,25
+ALU-199,María López,Medicina,Medicina Humana,3,28.85,23
+ALU-377,Elena López,Ingeniería de Producción y Servicios,Ing. Industrial,4,-5.0,13
+ALU-147,Juan Martínez,Derecho,Derecho,3,11.65,12
+ALU-396,Carlos Pérez,Derecho,Derecho,5,12.91,21
+ALU-148,Valeria López,Ingeniería de Producción y Servicios,Ing. Industrial,7,15.44,16
+ALU-484,Jorge Fernández,Medicina,Medicina Humana,3,11.1,18
+ALU-290,Carlos Rodríguez,Derecho,Derecho,5,18.81,16
+ALU-124,Sofía Sánchez,Ingeniería de Producción y Servicios,Ing. Industrial,5,-5.0,13
+ALU-372,Luis Gómez,Ingeniería de Producción y Servicios,Ing. Eléctrica,5,14.67,12
+ALU-097,Jorge López,Derecho,Derecho,6,17.41,14
+ALU-144,Lucía Sánchez,Administración,Administración de Empresas,4,9.83,22
+ALU-240,Lucía Sánchez,Medicina,Medicina Humana,-2,9.39,15
+ALU-276,Elena Martínez,Medicina,Medicina Humana,4,15.03,13
+ALU-098,Pedro Rodríguez,Derecho,Derecho,4,12.41,16
+ALU-353,Elena Rodríguez,Medicina,Medicina Humana,3,18.64,25
+ALU-123,Diego Romero,Administración,Administración de Empresas,2,12.39,22
+ALU-184,Pedro Gómez,Medicina,Medicina Humana,5,12.28,25
+ALU-203,Jorge Gómez,Ingeniería de Sistemas,Ing. de Sistemas,2,16.02,23
+ALU-247,Juan Fernández,,Derecho,1,12.86,22
+ALU-308,Diego Díaz,Administración,Contabilidad,7,14.46,18
+ALU-423,Ana Rodríguez,Ingeniería de Producción y Servicios,Ing. Eléctrica,7,13.9,22
+ALU-354,Ana Martínez,Medicina,Medicina Humana,7,14.73,18
+ALU-303,Valeria Rodríguez,Ingeniería de Producción y Servicios,Ing. Eléctrica,5,16.85,13
+ALU-399,Diego Gómez,Ingeniería de Producción y Servicios,Ing. Eléctrica,3,12.58,19
+ALU-287,Diego Pérez,Ingeniería de Producción y Servicios,Ing. Eléctrica,10,7.28,18
+ALU-126,Diego López,Ingeniería de Sistemas,Ciencia de la Computación,4,13.04,14
+ALU-305,Pedro López,Ingeniería de Sistemas,Ciencia de la Computación,3,18.86,13
+ALU-224,Jorge Rodríguez,Ingeniería de Sistemas,Ing. de Sistemas,9,16.87,18
+ALU-422,Lucía Martínez,Administración,Administración de Empresas,4,13.85,19
+ALU-220,Sofía Torres,Ingeniería de Sistemas,Ciencia de la Computación,6,17.24,25
+ALU-130,Carlos Fernández,Ingeniería de Sistemas,Ing. de Sistemas,7,16.08,21
+ALU-424,Sofía Martínez,Derecho,Derecho,6,13.7,24
+ALU-292,  jorge torres ,   administración  , ADMINISTRACIÓN DE EMPRESAS ,3,12.54,21
+ALU-493,Jorge Díaz,Ingeniería de Sistemas,Ing. de Sistemas,9,11.49,22
+ALU-394,Luis Sánchez,Medicina,Medicina Humana,3,7.71,17
+ALU-480,María Sánchez,Administración,Administración de Empresas,-2,13.18,21
+ALU-358,Valeria López,Administración,Contabilidad,8,13.99,17
+ALU-297,Sofía Rodríguez,Administración,Contabilidad,4,8.93,16
+ALU-370,Jorge Torres,Ingeniería de Sistemas,Ciencia de la Computación,5,11.38,14
+ALU-343,Diego López,Ingeniería de Sistemas,Ing. de Sistemas,5,12.51,23
+ALU-113,Sofía Fernández,Ingeniería de Sistemas,Ciencia de la Computación,5,16.64,17
+ALU-180,Ana Fernández,Medicina,Medicina Humana,7,13.49,18
+ALU-419,Juan Sánchez,Ingeniería de Producción y Servicios,Ing. Eléctrica,10,11.94,20
+ALU-342,María Rodríguez,Ingeniería de Producción y Servicios,Ing. Industrial,5,12.73,25
+ALU-333,Valeria López,Ingeniería de Sistemas,Ing. de Sistemas,3,14.98,23
+ALU-487,Pedro Fernández,Ingeniería de Sistemas,Ciencia de la Computación,2,15.47,15
+ALU-363,Luis López,Ingeniería de Sistemas,Ing. de Sistemas,10,16.34,21
+ALU-234,Lucía Sánchez,Ingeniería de Sistemas,Ciencia de la Computación,5,14.6,13
+ALU-473,Luis Sánchez,Ingeniería de Producción y Servicios,Ing. Industrial,10,13.76,20
+ALU-165,Sofía Díaz,Ingeniería de Producción y Servicios,Ing. Industrial,8,15.12,20
+ALU-137,Ana López,Derecho,Derecho,3,13.4,20
+ALU-198,Diego Pérez,Ingeniería de Sistemas,Ciencia de la Computación,4,14.44,17
+ALU-259,Juan Pérez,Medicina,Medicina Humana,8,15.4,23
+ALU-233,María Fernández,Derecho,Derecho,8,12.35,20
+ALU-116,Carlos López,Administración,Contabilidad,7,37.83,13
+ALU-121,Elena Pérez,Medicina,Medicina Humana,4,9.41,16
+ALU-352,Juan Torres,Ingeniería de Producción y Servicios,Ing. Eléctrica,2,8.44,12
+ALU-225,Lucía Torres,Medicina,Medicina Humana,7,10.93,12
+ALU-406,Ana Gómez,Medicina,Medicina Humana,9,9.29,21
+ALU-437,Jorge Pérez,Ingeniería de Sistemas,Ciencia de la Computación,7,9.6,21
+ALU-128,Pedro Sánchez,Ingeniería de Sistemas,Ciencia de la Computación,8,13.9,20
+ALU-286,Sofía Fernández,Derecho,Derecho,9,17.47,14
+ALU-415,  pedro sánchez ,   administración  , CONTABILIDAD ,2,13.91,16
+ALU-108,Lucía Fernández,Administración,Administración de Empresas,-2,13.91,25
+ALU-374,Juan Pérez,Derecho,Derecho,3,11.39,13
+ALU-371,Luis Torres,Ingeniería de Sistemas,Ciencia de la Computación,N/A,13.66,18
+ALU-134,Pedro Rodríguez,Derecho,Derecho,4,20.0,19
+ALU-400,Carlos Sánchez,Ingeniería de Producción y Servicios,Ing. Mecánica,5,13.17,15
+ALU-045,Jorge Gómez,Medicina,Medicina Humana,3,17.61,20
+ALU-466,Carlos Sánchez,Administración,Administración de Empresas,5,13.38,20
+ALU-066,Lucía Torres,Ingeniería de Sistemas,Ciencia de la Computación,9,11.06,21
+ALU-284,María Díaz,Derecho,Derecho,1,17.18,23
+ALU-086,Lucía Díaz,Medicina,Medicina Humana,10,15.47,25
+ALU-243,Juan Rodríguez,Ingeniería de Producción y Servicios,Ing. Industrial,3,13.13,18
+ALU-187,Elena Pérez,Ingeniería de Producción y Servicios,Ing. Industrial,10,10.88,17
+ALU-387,Elena Sánchez,Ingeniería de Sistemas,Ciencia de la Computación,2,9.44,25
+ALU-160,Pedro López,Medicina,Medicina Humana,5,14.33,21
+ALU-013,Jorge Pérez,Ingeniería de Sistemas,Ing. de Sistemas,2,20.0,25
+ALU-036,Diego Romero,Administración,Contabilidad,4,11.67,18
+ALU-029,María Sánchez,,Ing. de Sistemas,7,13.72,24
+ALU-171,Lucía Pérez,Derecho,Derecho,2,15.56,16
+ALU-143,Luis Romero,Ingeniería de Producción y Servicios,Ing. Industrial,N/A,12.94,13
+ALU-417,Sofía Rodríguez,Derecho,Derecho,10,10.38,19
+ALU-425,Luis Sánchez,Ingeniería de Producción y Servicios,Ing. Mecánica,8,,16
+ALU-222,  jorge torres ,   derecho  , DERECHO ,3,11.35,12
+ALU-096,Lucía López,Medicina,Medicina Humana,1,8.55,22
+ALU-052,Luis Rodríguez,Ingeniería de Producción y Servicios,Ing. Eléctrica,7,14.71,21
+ALU-241,Ana Pérez,Derecho,Derecho,7,16.94,20
+ALU-376,Lucía Romero,Medicina,Medicina Humana,2,12.38,17
+ALU-382,Pedro Romero,Derecho,Derecho,4,10.23,12
+ALU-179,Elena Gómez,Derecho,Derecho,5,15.51,22
+ALU-042,Sofía Martínez,Administración,Contabilidad,1,-5.0,25
+ALU-440,Sofía Fernández,Ingeniería de Producción y Servicios,Ing. Mecánica,7,9.58,24
+ALU-391,  juan pérez ,   ingeniería de producción y servicios  , ING. MECÁNICA ,10,17.51,13
+ALU-207,Lucía Pérez,Administración,Administración de Empresas,7,13.05,13
+ALU-283,Elena Sánchez,Administración,Contabilidad,8,9.63,25
+ALU-255,Valeria Romero,Medicina,Medicina Humana,9,14.31,13
+ALU-416,Pedro Torres,Medicina,Medicina Humana,5,16.11,12
+ALU-005,Pedro Rodríguez,Derecho,Derecho,6,11.23,23
+ALU-257,Ana Rodríguez,Ingeniería de Producción y Servicios,Ing. Mecánica,9,,15
+ALU-453,Elena Gómez,Ingeniería de Producción y Servicios,Ing. Mecánica,7,10.64,16
+ALU-101,Carlos Pérez,Administración,Contabilidad,4,10.36,23
+ALU-227,María López,Administración,Contabilidad,7,15.03,17
+ALU-432,María Pérez,Derecho,Derecho,5,11.13,21
+ALU-214,María Sánchez,Derecho,Derecho,7,11.54,18
+ALU-426,Luis Pérez,Medicina,Medicina Humana,8,14.49,17
+ALU-172,María Torres,Derecho,Derecho,3,15.72,24
+ALU-099,Juan Romero,Ingeniería de Producción y Servicios,Ing. Mecánica,3,12.75,16
+ALU-293,María Torres,Administración,Contabilidad,3,19.75,25
+ALU-216,Juan Sánchez,Medicina,Medicina Humana,2,4.05,22
+ALU-062,Jorge Gómez,Ingeniería de Sistemas,Ing. de Sistemas,2,14.22,25
+ALU-048,Pedro López,Derecho,Derecho,9,15.21,14
+ALU-033,Carlos Sánchez,Medicina,Medicina Humana,4,16.99,18
+ALU-268,Juan Rodríguez,Ingeniería de Sistemas,Ciencia de la Computación,2,18.97,20
+ALU-328,Pedro Rodríguez,Derecho,Derecho,4,13.12,19
+ALU-201,Jorge Gómez,Administración,Administración de Empresas,N/A,15.77,14
+ALU-451,Diego Romero,Ingeniería de Producción y Servicios,Ing. Mecánica,7,16.91,23
+ALU-028,Sofía Gómez,Derecho,Derecho,6,10.46,21
+ALU-393,Ana López,Ingeniería de Sistemas,Ciencia de la Computación,7,10.91,18
+ALU-231,Ana Sánchez,Derecho,Derecho,9,15.49,17
+ALU-261,Carlos Rodríguez,Administración,Administración de Empresas,3,11.74,12
+ALU-289,Elena Torres,Derecho,Derecho,4,11.69,14
+ALU-163,Carlos López,Medicina,Medicina Humana,6,-5.0,20
+ALU-429,Valeria López,Administración,Contabilidad,-2,15.92,13
+ALU-139,Carlos Díaz,Derecho,Derecho,4,16.11,24
+ALU-063,Elena Romero,Ingeniería de Sistemas,Ciencia de la Computación,8,13.99,18
+ALU-136,María Pérez,Ingeniería de Producción y Servicios,Ing. Mecánica,7,12.79,15
+ALU-129,Elena Sánchez,Ingeniería de Sistemas,Ing. de Sistemas,10,16.35,18
+ALU-482,María Díaz,Medicina,Medicina Humana,6,12.74,25
+ALU-009,Ana Rodríguez,Administración,Administración de Empresas,6,14.23,25
+ALU-327,Luis Sánchez,Administración,Contabilidad,10,15.73,21
+ALU-469,Jorge Díaz,Ingeniería de Sistemas,Ing. de Sistemas,9,14.25,21
+ALU-065,Pedro Sánchez,Ingeniería de Sistemas,Ing. de Sistemas,5,14.18,23
+ALU-301,Pedro Sánchez,Ingeniería de Sistemas,Ing. de Sistemas,9,14.2,15
+ALU-015,María López,Medicina,Medicina Humana,3,19.54,19
+ALU-157,Sofía Pérez,Administración,Contabilidad,3,15.95,24
+ALU-041,Luis Díaz,Ingeniería de Producción y Servicios,Ing. Eléctrica,2,13.99,19
+ALU-380,Pedro Martínez,Ingeniería de Sistemas,Ing. de Sistemas,1,15.71,20
+ALU-465,Juan Pérez,Medicina,Medicina Humana,9,14.12,12
+ALU-407,  jorge pérez ,   derecho  , DERECHO ,3,16.13,12
+ALU-217,Ana Martínez,Administración,Contabilidad,4,13.02,16
+ALU-280,Lucía Gómez,Ingeniería de Producción y Servicios,Ing. Mecánica,8,13.87,25
+ALU-439,Luis Gómez,Derecho,Derecho,2,16.37,25
+ALU-435,Elena Martínez,Administración,Contabilidad,10,8.86,17
+ALU-338,Valeria Pérez,Ingeniería de Producción y Servicios,Ing. Eléctrica,1,11.46,25
+ALU-237,Sofía Díaz,Derecho,Derecho,5,11.57,12
+ALU-208,Carlos López,Ingeniería de Producción y Servicios,Ing. Industrial,1,12.54,13
+ALU-213,Juan Pérez,Ingeniería de Sistemas,Ciencia de la Computación,1,9.9,15
+ALU-296,Valeria Gómez,Derecho,Derecho,5,15.35,17
+ALU-462,Juan Díaz,Ingeniería de Sistemas,Ciencia de la Computación,8,15.81,17
+ALU-252,Valeria Pérez,Ingeniería de Producción y Servicios,Ing. Eléctrica,7,17.1,21
+ALU-494,Sofía Fernández,Medicina,Medicina Humana,4,13.97,17
+ALU-463,  ana díaz ,   medicina  , MEDICINA HUMANA ,10,17.63,24
+ALU-304,Diego Romero,Medicina,Medicina Humana,2,14.07,14
+ALU-351,Luis Gómez,Ingeniería de Producción y Servicios,Ing. Industrial,7,10.16,22
+ALU-270,Valeria Sánchez,Derecho,Derecho,10,-5.0,15
+ALU-202,Elena Martínez,Administración,Administración de Empresas,4,-5.0,15
+ALU-162,Jorge Fernández,Medicina,Medicina Humana,4,11.18,16
+ALU-044,Pedro Martínez,Ingeniería de Producción y Servicios,Ing. Industrial,10,12.27,13
+ALU-218,Sofía López,Medicina,Medicina Humana,7,16.0,23
+ALU-402,Ana Martínez,Ingeniería de Producción y Servicios,Ing. Mecánica,1,14.86,18
+ALU-191,Elena Martínez,Derecho,Derecho,9,15.14,19
+ALU-310,Elena Pérez,Medicina,Medicina Humana,7,17.36,25
+ALU-260,Juan Romero,,Derecho,10,13.79,17
+ALU-106,Lucía Díaz,Ingeniería de Producción y Servicios,Ing. Industrial,8,14.46,20
+ALU-054,Jorge López,Ingeniería de Sistemas,Ciencia de la Computación,8,8.89,22
+ALU-390,María Rodríguez,Administración,Administración de Empresas,2,55.64,12
+ALU-002,Juan Martínez,Derecho,Derecho,5,17.79,19
+ALU-492,Diego Fernández,Derecho,Derecho,7,10.52,13
+ALU-488,María Romero,Administración,Administración de Empresas,4,15.27,14
+ALU-050,Valeria Romero,Medicina,Medicina Humana,5,7.86,21
+ALU-420,María Rodríguez,Medicina,Medicina Humana,10,20.0,18
+ALU-081,Sofía Torres,Ingeniería de Producción y Servicios,Ing. Eléctrica,10,13.96,14
+ALU-206,Diego López,Medicina,Medicina Humana,5,7.81,20
+ALU-035,Valeria Sánchez,Administración,Administración de Empresas,1,12.28,22
+ALU-431,Carlos Rodríguez,Ingeniería de Sistemas,Ciencia de la Computación,5,8.3,14
+ALU-264,Diego Sánchez,Administración,Contabilidad,2,16.06,15
+ALU-428,Jorge Martínez,Ingeniería de Sistemas,Ciencia de la Computación,9,18.49,12
+ALU-367,Valeria Martínez,Ingeniería de Sistemas,Ciencia de la Computación,10,13.9,16
+ALU-092,Juan Torres,Ingeniería de Sistemas,Ciencia de la Computación,N/A,12.31,23
+ALU-340,Ana Romero,Derecho,Derecho,5,11.83,16
+ALU-479,Juan Pérez,Administración,Administración de Empresas,8,50.63,23
+ALU-053,María Rodríguez,,Administración de Empresas,7,11.85,13
+ALU-346,Pedro Martínez,Ingeniería de Sistemas,Ing. de Sistemas,4,12.82,24
+ALU-265,Lucía Gómez,Medicina,Medicina Humana,6,12.91,13
+ALU-242,Juan Sánchez,Ingeniería de Sistemas,Ing. de Sistemas,4,18.55,14
+ALU-014,Lucía Rodríguez,Medicina,Medicina Humana,8,8.96,18
+ALU-316,Elena Gómez,Derecho,Derecho,7,10.13,12
+ALU-089,Sofía Fernández,Ingeniería de Sistemas,Ing. de Sistemas,4,14.23,25
+ALU-388,Jorge Pérez,Medicina,Medicina Humana,1,19.79,13
+ALU-274,Luis Díaz,Ingeniería de Sistemas,Ing. de Sistemas,7,9.95,17
+ALU-167,Lucía Torres,Administración,Administración de Empresas,2,16.65,17
+ALU-329,Juan López,Ingeniería de Sistemas,Ing. de Sistemas,6,10.45,12
+ALU-498,Elena Pérez,Derecho,Derecho,4,12.82,15
+ALU-135,Elena Torres,Medicina,Medicina Humana,8,11.31,21
+ALU-307,Valeria Díaz,Ingeniería de Producción y Servicios,Ing. Mecánica,2,17.31,16
+ALU-486,Pedro López,Medicina,Medicina Humana,-2,14.67,19
+ALU-320,Sofía López,Administración,Contabilidad,6,11.88,24
+ALU-244,Diego Gómez,Ingeniería de Sistemas,Ing. de Sistemas,5,,25
+ALU-055,Ana Fernández,Medicina,Medicina Humana,5,13.62,22
+ALU-364,Diego Fernández,Ingeniería de Sistemas,Ciencia de la Computación,10,9.03,22
+ALU-051,Lucía Romero,Derecho,Derecho,9,15.22,24
+ALU-461,Elena Gómez,Ingeniería de Sistemas,Ciencia de la Computación,1,13.24,21
+ALU-175,Luis Sánchez,Ingeniería de Sistemas,Ciencia de la Computación,9,15.42,24
+ALU-446,Juan Díaz,Medicina,Medicina Humana,1,13.9,19
+ALU-190,Valeria Romero,Administración,Contabilidad,6,14.28,14
+ALU-002,Juan Martínez,Derecho,Derecho,5,17.79,19
+ALU-464,Juan Gómez,Ingeniería de Producción y Servicios,Ing. Eléctrica,3,11.01,22
+ALU-188,Lucía Rodríguez,Medicina,Medicina Humana,2,20.0,16
+ALU-170,Lucía Gómez,Medicina,Medicina Humana,9,15.83,21
+ALU-059,Luis Torres,Derecho,Derecho,6,,24
+ALU-049,Sofía Sánchez,Ingeniería de Sistemas,Ing. de Sistemas,1,13.02,25
+ALU-345,Juan Fernández,Derecho,Derecho,-2,17.09,18
+ALU-236,Ana Díaz,Medicina,Medicina Humana,7,16.6,18
+ALU-253,Lucía Romero,Medicina,Medicina Humana,6,15.32,23
+ALU-022,  juan sánchez ,   ingeniería de producción y servicios  , ING. INDUSTRIAL ,1,12.58,21
+ALU-314,Lucía Pérez,Derecho,Derecho,2,18.06,25
+ALU-460,Valeria Díaz,Ingeniería de Producción y Servicios,Ing. Eléctrica,7,,13
+ALU-161,Carlos Fernández,Ingeniería de Producción y Servicios,Ing. Mecánica,7,13.37,15
+ALU-277,  juan gómez ,   administración  , CONTABILIDAD ,8,15.57,12
+ALU-444,Jorge Díaz,Derecho,Derecho,2,13.48,21
+ALU-192,María Pérez,Derecho,Derecho,7,17.56,12
+ALU-386,Valeria Martínez,Medicina,Medicina Humana,7,18.43,19
+ALU-294,Valeria Díaz,Ingeniería de Sistemas,Ciencia de la Computación,5,14.68,13
+ALU-414,Carlos Martínez,Derecho,Derecho,3,15.3,23
+ALU-344,Carlos Martínez,Ingeniería de Sistemas,Ciencia de la Computación,1,,20
+ALU-258,Ana Romero,Ingeniería de Producción y Servicios,Ing. Mecánica,3,18.15,22
+ALU-309,Luis Gómez,Ingeniería de Sistemas,Ing. de Sistemas,9,16.99,22
+ALU-150,Elena Martínez,Ingeniería de Producción y Servicios,Ing. Industrial,1,10.57,19
+ALU-131,Elena Sánchez,Ingeniería de Producción y Servicios,Ing. Mecánica,6,12.72,23
+ALU-152,Jorge Romero,Ingeniería de Producción y Servicios,Ing. Mecánica,10,17.85,15
+ALU-360,Elena Martínez,Medicina,Medicina Humana,1,12.14,25
+ALU-100,Pedro Rodríguez,,Contabilidad,7,16.43,21
+ALU-373,Lucía Martínez,Administración,Administración de Empresas,3,8.98,21
+ALU-088,Diego Sánchez,Derecho,Derecho,9,15.59,15
+ALU-459,Diego Martínez,Ingeniería de Producción y Servicios,Ing. Industrial,5,18.01,17
+ALU-331,Pedro Rodríguez,Ingeniería de Producción y Servicios,Ing. Industrial,N/A,16.22,13
+ALU-215,Ana Martínez,Medicina,Medicina Humana,6,13.03,21
+ALU-467,María Romero,Administración,Contabilidad,1,16.87,20
+ALU-122,Elena Torres,Administración,Administración de Empresas,8,11.05,24
+ALU-005,Pedro Rodríguez,Derecho,Derecho,6,11.23,23
+ALU-021,María Sánchez,Ingeniería de Producción y Servicios,Ing. Mecánica,6,15.87,25
+ALU-189,Jorge Martínez,Ingeniería de Sistemas,Ciencia de la Computación,3,14.58,24
+ALU-072,Pedro Rodríguez,Ingeniería de Sistemas,Ing. de Sistemas,6,13.75,13
+ALU-107,Valeria Sánchez,Ingeniería de Producción y Servicios,Ing. Industrial,7,15.92,19
+ALU-271,Sofía Gómez,Derecho,Derecho,10,10.4,22
+ALU-349,Diego Sánchez,Medicina,Medicina Humana,N/A,17.6,19
+ALU-436,Carlos Díaz,Medicina,Medicina Humana,8,16.59,16
+ALU-103,Sofía Fernández,Medicina,Medicina Humana,9,7.6,19
