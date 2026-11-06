@@ -1,0 +1,24 @@
+.contenedor {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.buscador {
+    width: 100%;
+    max-width: 450px;
+    margin-top: 20px;
+}
+
+.tabla-contenedor {
+    width: 100%;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    min-width: 1200px;
+}
+
+th {
+    font-weight: bold;
+}
